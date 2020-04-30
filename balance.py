@@ -23,7 +23,7 @@ print('please input the lentgh of your object')
 print('now please put the angle at which the object is at')
     input() #this value should be stored as midpoint_of_object
 
-#MAYBE IN HERE ADD A DELAY (SHOW THAT THE 'MACHINE IS THINKING')
+#MAYBE IN HERE ADD A DELAY (SHOW THAT THE 'MACHINE IS THINKING...')
 
 def momentum_vertical():
     """calculate the weight of the rod"""
